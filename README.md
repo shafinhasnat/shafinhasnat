@@ -11,4 +11,4 @@ I am [Shafin Hasnat](https://shafinhasnat.me), a passionate software engineer fr
 
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shafinhasnat&hide=contribs,prs) -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shafinhasnat&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shafinhasnat&show_icons=true&theme=dark)
