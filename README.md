@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shafin Hasnat</h1>
-<h3 align="center">I suck when I'am stuck</h3>
+## Hey there!
+Hi I am [Shafin Hasnat](shafinhasnat.me), a passionate software engineer from Bangladesh🇧🇩. I love to explore technology and adapt in my own way.
 
-- 📝 I regularly write articles on [shafinhasnat97.medium.com](https://shafinhasnat97.medium.com)
+- 📝 I regularly write articles on [medium](https://shafinhasnat97.medium.com)
 
-- 📫 How to reach me **shafinhasnat97@gmail.com**
+- 📫 Reach me at [mail](shafinhasnat97@gmail.com)
 
 - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1u0RyJ2ZLXsg4ntWa5aGGe0QopZxlhhg_/view?usp=sharing)
 
