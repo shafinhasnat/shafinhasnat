@@ -10,3 +10,4 @@ I am [Shafin Hasnat](https://shafinhasnat.me), a passionate software engineer fr
 - 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1u0RyJ2ZLXsg4ntWa5aGGe0QopZxlhhg_/view?usp=sharing)
 
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shafinhasnat&hide=contribs,prs)
