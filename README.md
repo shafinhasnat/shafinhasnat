@@ -1,7 +1,9 @@
 ## Hey there!
-Hi I am [Shafin Hasnat](shafinhasnat.me), a passionate software engineer from Bangladesh🇧🇩. I love to explore technology and adapt in my own way.
+Hi I am [Shafin Hasnat](https://shafinhasnat.me), a passionate software engineer from Bangladesh🇧🇩. I love to explore technology and adapt in my own way.
 
-- 📝 I regularly write articles on [medium](https://shafinhasnat97.medium.com)
+- 🧑🏽‍💻 Software Engineer at [Intercloud](https://brilliant.com.bd/cloud) 
+
+- 📝 Regularly write articles on [medium](https://shafinhasnat97.medium.com)
 
 - 📫 Reach me at ***shafinhasnat97@gmail.com***
 
