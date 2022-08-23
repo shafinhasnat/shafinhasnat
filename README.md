@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shafin Hasnat</h1>
 <h3 align="center">I suck when I'am stuck</h3>
 
-- 📝 I regularly write articles on [shafinhasnat97.medium.com](shafinhasnat97.medium.com)
+- 📝 I regularly write articles on [shafinhasnat97.medium.com](https://shafinhasnat97.medium.com)
 
 - 📫 How to reach me **shafinhasnat97@gmail.com**
 
